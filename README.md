@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 ------
   
-Credit: [Aryagm](https://github.com/Aryagm)
+
